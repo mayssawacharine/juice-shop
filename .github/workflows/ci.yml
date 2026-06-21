@@ -4,7 +4,7 @@ on:
     branches-ignore:
       - l10n_develop
       - gh-pages
-    paths-ignore:
+    paths-ignore: 
       - '*.md'
       - 'LICENSE'
       - 'monitoring/grafana-dashboard.json'
